@@ -6,8 +6,11 @@
 
 <script>
     export default {
-        
+
     }
+    definePageMeta({  
+        layout: "custom"
+         });
 </script>
 
 <style lang="scss" scoped>

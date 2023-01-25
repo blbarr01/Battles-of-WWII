@@ -1,11 +1,11 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
-    Layout: custom
-    <h2> the custom layout</h2>
+  
+  <div >
     <slot />
   </div>
+    <navbar/>
 </template>
 
 <style scoped></style>

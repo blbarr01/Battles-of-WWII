@@ -1,11 +1,10 @@
 <script lang="ts" setup></script>
 
 <template>
-  
+  <navbar/>
   <div >
     <slot />
   </div>
-    <navbar/>
 </template>
 
 <style scoped></style>

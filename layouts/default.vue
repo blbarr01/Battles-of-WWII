@@ -1,11 +1,8 @@
 <template>
-
         <navbar/>
-
         <div class="container mx-auto mt-24 border-2 border-black p-12">
             <slot /> 
         </div>
-   
 </template>
 
 <script>
